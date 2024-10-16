@@ -10,9 +10,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Associate Professor**
 
-*Super Scientific Software Laboratory (SSSLab)*
+
+
+
+**Undergraduate Student**
 
 *College of Information Science and Engineering (CISE)*  
 
