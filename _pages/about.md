@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Yuhang Tian"
+excerpt: "about me"
 author_profile: true
 redirect_from: 
   - /about/
