@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a fourth year undergraduate student from [Chinese University of Petroleum, Beijing](https://cup.edu.cn/). My research interest includes computer science.
+I'm a fourth year undergraduate student from [China University of Petroleum-Beijing](https://cup.edu.cn/). My research interest includes computer science.
 
 [Email](mailto:tyhcup@163.com) / [Github](https://github.com/yh-tian) / [Wechat](../images/wechat.jpg)
 
@@ -37,7 +37,7 @@ NULL
 NULL
 
 # 📖 Educations
-- *2021.06 - 2025.09 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06 - 2025.09 (now)*, Computer Science and Technology, China University of Petroleum-Beijing.
 
 # 💬 Invited Talks
 
