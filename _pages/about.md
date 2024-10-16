@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Yuhang Tian"
-excerpt: "about me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,6 +9,14 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
+
+**Associate Professor**
+
+*Super Scientific Software Laboratory (SSSLab)*
+
+*College of Information Science and Engineering (CISE)*  
+
+*China University of Petroleum-Beijing (CUP)*  
 
 I'm a fourth year undergraduate student from [China University of Petroleum-Beijing](https://cup.edu.cn/). My research interest includes computer science.
 
